@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "progrem", "progrem\progrem.csproj", "{FF4C387E-0D4B-40BA-BC06-BB773D87DFD0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF4C387E-0D4B-40BA-BC06-BB773D87DFD0}.Debug|x86.ActiveCfg = Debug|x86
+		{FF4C387E-0D4B-40BA-BC06-BB773D87DFD0}.Debug|x86.Build.0 = Debug|x86
+		{FF4C387E-0D4B-40BA-BC06-BB773D87DFD0}.Release|x86.ActiveCfg = Release|x86
+		{FF4C387E-0D4B-40BA-BC06-BB773D87DFD0}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
