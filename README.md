@@ -37,9 +37,7 @@
 
 ![image](https://github.com/dy162052101/Snake/blob/master/image/app.png)
 
-所有美术都是自己用ps制作哦
-
-谢谢观看q(≧▽≦q)。
+所有美术都是自己用ps制作
 
 
 
